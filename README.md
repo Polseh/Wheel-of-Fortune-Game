@@ -3,7 +3,7 @@ Wheel of Fortune Game:
 This is an animated multiplayer Wheel of Fortune game that includes:
 
 
-  -splashscreen animation
+	-splashscreen animation
   
   -main menu that responsive to user input
   
@@ -17,5 +17,6 @@ This is an animated multiplayer Wheel of Fortune game that includes:
   
   
   How to run:
-  Download hsa Console library and run WheelOfFortune.java
+  Download hsa Console library and run WheelOfFortune.java 
+	(I have not included the image files for the splashscreen)
 
